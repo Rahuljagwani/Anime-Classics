@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Anime-Classics/static/css/main.702a1bfe.css",
+    "main.css": "/Anime-Classics/static/css/main.72e68f4b.css",
     "main.js": "/Anime-Classics/static/js/main.1f16b136.js",
     "static/js/787.e821e366.chunk.js": "/Anime-Classics/static/js/787.e821e366.chunk.js",
     "index.html": "/Anime-Classics/index.html",
-    "main.702a1bfe.css.map": "/Anime-Classics/static/css/main.702a1bfe.css.map",
+    "main.72e68f4b.css.map": "/Anime-Classics/static/css/main.72e68f4b.css.map",
     "main.1f16b136.js.map": "/Anime-Classics/static/js/main.1f16b136.js.map",
     "787.e821e366.chunk.js.map": "/Anime-Classics/static/js/787.e821e366.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.702a1bfe.css",
+    "static/css/main.72e68f4b.css",
     "static/js/main.1f16b136.js"
   ]
 }
